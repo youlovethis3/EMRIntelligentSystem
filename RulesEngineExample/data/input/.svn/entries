@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="17"
+   name=""
+   committed-date="2013-02-12T22:01:13.327462Z"
+   url="svn://mu.lti.cs.cmu.edu/EMRCode/RulesEngine/data/input"
+   last-author="ehn"
+   kind="dir"
+   uuid="22fdd2b2-2989-4855-9e32-448a1d1e1bd8"
+   repos="svn://mu.lti.cs.cmu.edu/EMRCode"
+   revision="47"/>
+<entry
+   committed-rev="17"
+   name="sample.txt.xmi"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-12T22:01:13.327462Z"
+   checksum="ca8097047df5fac6628b3d007f947ecb"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+</wc-entries>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8"
+   name=""
+   committed-date="2013-02-05T22:40:29.058326Z"
+   url="svn://mu.lti.cs.cmu.edu/EMRCode/RulesEngine/desc/CPT"
+   last-author="ehn"
+   kind="dir"
+   uuid="22fdd2b2-2989-4855-9e32-448a1d1e1bd8"
+   repos="svn://mu.lti.cs.cmu.edu/EMRCode"
+   revision="47"/>
+<entry
+   committed-rev="8"
+   name="CPTtype.xml"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-05T22:40:29.058326Z"
+   checksum="6e24caaf47596b3e25f112d49423f198"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+<entry
+   committed-rev="8"
+   name="CPTannotator.xml"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-05T22:40:29.058326Z"
+   checksum="e98d61d05784491ad383837d23b0e4af"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+</wc-entries>

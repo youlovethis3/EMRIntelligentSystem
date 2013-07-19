@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="18"
+   name=""
+   committed-date="2013-02-12T22:26:02.415860Z"
+   url="svn://mu.lti.cs.cmu.edu/EMRCode/RulesEngine/descriptors"
+   last-author="ehn"
+   kind="dir"
+   uuid="22fdd2b2-2989-4855-9e32-448a1d1e1bd8"
+   repos="svn://mu.lti.cs.cmu.edu/EMRCode"
+   revision="47"/>
+<entry
+   committed-rev="17"
+   name="DRGAnnotatorDescriptor.xml"
+   text-time="2013-02-22T15:15:30.000000Z"
+   committed-date="2013-02-12T22:01:13.327462Z"
+   checksum="6d9eda76b448ec1ff94571b21c1e690d"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   committed-rev="5"
+   name="MappingCPE.xml"
+   text-time="2013-02-22T15:15:30.000000Z"
+   committed-date="2013-01-31T13:44:18.439786Z"
+   checksum="3efdcba67f60936be5cad79cb52b78a3"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   committed-rev="6"
+   name="BagRuleAnnotatorDescriptor.xml"
+   text-time="2013-02-22T15:15:30.000000Z"
+   committed-date="2013-02-05T20:53:42.299443Z"
+   checksum="f60146a4f47269db4cd4f5411469ab06"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   committed-rev="5"
+   name="TypeSystem.xml"
+   text-time="2013-02-22T15:15:30.000000Z"
+   committed-date="2013-01-31T13:44:18.439786Z"
+   checksum="7ab4bd179df9ceb902e18124cf0d73fe"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   committed-rev="18"
+   name="CombinedCPE.xml"
+   text-time="2013-02-22T15:15:30.000000Z"
+   committed-date="2013-02-12T22:26:02.415860Z"
+   checksum="66dbcd6669ccb4715d2701357b4c70a0"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   committed-rev="5"
+   name="MappingRuleAnnotatorDescriptor.xml"
+   text-time="2013-02-22T15:15:30.000000Z"
+   committed-date="2013-01-31T13:44:18.439786Z"
+   checksum="1c25e4c5d55a99e9881382de809b5cea"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   committed-rev="17"
+   name="ContextBagRuleAnnotatorDescriptor.xml"
+   text-time="2013-02-22T15:15:30.000000Z"
+   committed-date="2013-02-12T22:01:13.327462Z"
+   checksum="651e9fea7c653407e13e85bf58913c6d"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   committed-rev="17"
+   name="MetricsAnnotatorDescriptor.xml"
+   text-time="2013-02-22T15:15:30.000000Z"
+   committed-date="2013-02-12T22:01:13.327462Z"
+   checksum="f897d9bf573644239a60e10ab6090bbc"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   committed-rev="17"
+   name="SnomedTermListAnnotatorDescriptor.xml"
+   text-time="2013-02-22T15:15:30.000000Z"
+   committed-date="2013-02-12T22:01:13.327462Z"
+   checksum="ff02aeb35fca5323319bf4de6c4fcd2a"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+</wc-entries>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8"
+   name=""
+   committed-date="2013-02-05T22:40:29.058326Z"
+   url="svn://mu.lti.cs.cmu.edu/EMRCode/RulesEngine/src/edu/cmu/lti/oacb"
+   last-author="ehn"
+   kind="dir"
+   uuid="22fdd2b2-2989-4855-9e32-448a1d1e1bd8"
+   repos="svn://mu.lti.cs.cmu.edu/EMRCode"
+   revision="47"/>
+<entry
+   committed-rev="8"
+   name="ICD.java"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-05T22:40:29.058326Z"
+   checksum="e1ef654bda57031bea70d8a5a4383b41"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+<entry
+   name="SNOMEDannotation"
+   kind="dir"/>
+<entry
+   committed-rev="8"
+   name="ICD_Type.java"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-05T22:40:29.058326Z"
+   checksum="53c79d4d59b0ebd26d1fc0c1f6b5aafc"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+<entry
+   name="CPTannotation"
+   kind="dir"/>
+<entry
+   committed-rev="8"
+   name="SNOMED.java"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-05T22:40:29.058326Z"
+   checksum="853b33b4d7bed4935388e1eb6edf70c5"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+<entry
+   committed-rev="8"
+   name="CPT.java"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-05T22:40:29.058326Z"
+   checksum="ec091e537f947bdf38e78703ac3c7b1c"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+<entry
+   committed-rev="8"
+   name="SNOMED_Type.java"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-05T22:40:29.058326Z"
+   checksum="4ed75df9dc69926007adceed929505dc"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+<entry
+   committed-rev="8"
+   name="CPT_Type.java"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-05T22:40:29.058326Z"
+   checksum="5d4f6367ffae38cd4f7fed1446b9f5ee"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+<entry
+   name="ICDannotation"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8"
+   name=""
+   committed-date="2013-02-05T22:40:29.058326Z"
+   url="svn://mu.lti.cs.cmu.edu/EMRCode/RulesEngine/src/edu/cmu/lti/oacb/SNOMEDannotation"
+   last-author="ehn"
+   kind="dir"
+   uuid="22fdd2b2-2989-4855-9e32-448a1d1e1bd8"
+   repos="svn://mu.lti.cs.cmu.edu/EMRCode"
+   revision="47"/>
+<entry
+   committed-rev="8"
+   name="SNOMEDannotator.java"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-05T22:40:29.058326Z"
+   checksum="a53e33901d906fe85261fcebf41974ed"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+</wc-entries>

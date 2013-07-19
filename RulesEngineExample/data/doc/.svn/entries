@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9"
+   name=""
+   committed-date="2013-02-05T22:42:50.884519Z"
+   url="svn://mu.lti.cs.cmu.edu/EMRCode/RulesEngine/data/doc"
+   last-author="ehn"
+   kind="dir"
+   uuid="22fdd2b2-2989-4855-9e32-448a1d1e1bd8"
+   repos="svn://mu.lti.cs.cmu.edu/EMRCode"
+   revision="47"/>
+<entry
+   committed-rev="9"
+   name="preliminary_study.pdf"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-05T22:42:50.884519Z"
+   checksum="6cbf1a57e5effa2f0a2deff230c8de30"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+</wc-entries>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="17"
+   name=""
+   committed-date="2013-02-12T22:01:13.327462Z"
+   url="svn://mu.lti.cs.cmu.edu/EMRCode/RulesEngine/edu/cmu/lti/uima/rules"
+   last-author="ehn"
+   kind="dir"
+   uuid="22fdd2b2-2989-4855-9e32-448a1d1e1bd8"
+   repos="svn://mu.lti.cs.cmu.edu/EMRCode"
+   revision="47"/>
+<entry
+   committed-rev="17"
+   name="SnomedTermListAnnotator.java"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-12T22:01:13.327462Z"
+   checksum="e7f52c4b67f3d0f63478a1eec3ccbba0"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+<entry
+   committed-rev="6"
+   name="XMLRuleFactory.java"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-05T20:53:42.299443Z"
+   checksum="cadb4cf08953ece084ae13ef4ab1a9d3"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+<entry
+   committed-rev="6"
+   name="BagRule.java"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-05T20:53:42.299443Z"
+   checksum="ece04b588bd90889b548c50849c64a93"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+<entry
+   committed-rev="17"
+   name="DRGAnnotator.java"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-12T22:01:13.327462Z"
+   checksum="c922fd7c190c487e4c8be6820092b1fa"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+<entry
+   committed-rev="6"
+   name="BagRuleAnnotator.java"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-05T20:53:42.299443Z"
+   checksum="9498614bfa7a474e2803ea52d77e608b"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+<entry
+   committed-rev="5"
+   name="Rule.java"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-01-31T13:44:18.439786Z"
+   checksum="a87eea0b0b8a2ae77437e581dfad8e5b"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+<entry
+   committed-rev="17"
+   name="EvalUtils.java"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-12T22:01:13.327462Z"
+   checksum="0ecce2543aa30b182e4712b4eb6bcedd"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+<entry
+   committed-rev="17"
+   name="MappingRuleAnnotator.java"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-12T22:01:13.327462Z"
+   checksum="fa5346cd54ecaa175af4d0086dbaf7b9"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+<entry
+   committed-rev="17"
+   name="ContextBagRuleAnnotator.java"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-12T22:01:13.327462Z"
+   checksum="031a7c9fd024c7a13c9c0d9e539e0e07"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+<entry
+   committed-rev="17"
+   name="MetricsAnnotator.java"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-12T22:01:13.327462Z"
+   checksum="45e80c0258485398d5ad9a36328cd6f7"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+</wc-entries>

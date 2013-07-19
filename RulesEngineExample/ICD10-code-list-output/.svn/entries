@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5"
+   name=""
+   committed-date="2013-01-31T13:44:18.439786Z"
+   url="svn://mu.lti.cs.cmu.edu/EMRCode/RulesEngine/ICD10-code-list-output"
+   last-author="ehn"
+   kind="dir"
+   uuid="22fdd2b2-2989-4855-9e32-448a1d1e1bd8"
+   repos="svn://mu.lti.cs.cmu.edu/EMRCode"
+   revision="47"/>
+<entry
+   committed-rev="5"
+   name="A00.0.txt.xml"
+   text-time="2013-02-22T15:15:30.000000Z"
+   committed-date="2013-01-31T13:44:18.439786Z"
+   checksum="dea55dc72bb5508bf59fcd3763731624"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+</wc-entries>

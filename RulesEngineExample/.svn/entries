@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19"
+   name=""
+   committed-date="2013-02-13T22:31:05.635707Z"
+   url="svn://mu.lti.cs.cmu.edu/EMRCode/RulesEngine"
+   last-author="yifeih"
+   kind="dir"
+   uuid="22fdd2b2-2989-4855-9e32-448a1d1e1bd8"
+   repos="svn://mu.lti.cs.cmu.edu/EMRCode"
+   revision="47"/>
+<entry
+   name="ICD10-code-list-output"
+   kind="dir"/>
+<entry
+   committed-rev="19"
+   name=".classpath"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-13T22:31:05.635707Z"
+   checksum="1ba27dd8eb3691708dd74bd7fb670cd4"
+   last-author="yifeih"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   name="descriptors"
+   kind="dir"/>
+<entry
+   committed-rev="5"
+   name=".project"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-01-31T13:44:18.439786Z"
+   checksum="83569b118fefd3083596e4ff967c4e1f"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   name="data"
+   kind="dir"/>
+<entry
+   name="edu"
+   kind="dir"/>
+<entry
+   name=".settings"
+   kind="dir"/>
+<entry
+   name="desc"
+   kind="dir"/>
+</wc-entries>

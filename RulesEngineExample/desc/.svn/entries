@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8"
+   name=""
+   committed-date="2013-02-05T22:40:29.058326Z"
+   url="svn://mu.lti.cs.cmu.edu/EMRCode/RulesEngine/desc"
+   last-author="ehn"
+   kind="dir"
+   uuid="22fdd2b2-2989-4855-9e32-448a1d1e1bd8"
+   repos="svn://mu.lti.cs.cmu.edu/EMRCode"
+   revision="47"/>
+<entry
+   name="ICD"
+   kind="dir"/>
+<entry
+   committed-rev="8"
+   name="pipeline.xml"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-02-05T22:40:29.058326Z"
+   checksum="bed99d5fd0a6c796925b872f6ddbd548"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+<entry
+   name="SNOMED"
+   kind="dir"/>
+<entry
+   name="CPT"
+   kind="dir"/>
+</wc-entries>

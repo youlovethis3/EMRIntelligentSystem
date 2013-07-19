@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="17"
+   name=""
+   committed-date="2013-02-12T22:01:13.327462Z"
+   url="svn://mu.lti.cs.cmu.edu/EMRCode/RulesEngine/edu/cmu/lti"
+   last-author="ehn"
+   kind="dir"
+   uuid="22fdd2b2-2989-4855-9e32-448a1d1e1bd8"
+   repos="svn://mu.lti.cs.cmu.edu/EMRCode"
+   revision="47"/>
+<entry
+   name="uima"
+   kind="dir"/>
+</wc-entries>

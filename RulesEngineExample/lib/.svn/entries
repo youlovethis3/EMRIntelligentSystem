@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5"
+   name=""
+   committed-date="2013-01-31T13:44:18.439786Z"
+   url="svn://mu.lti.cs.cmu.edu/EMRCode/RulesEngine/lib"
+   last-author="ehn"
+   kind="dir"
+   uuid="22fdd2b2-2989-4855-9e32-448a1d1e1bd8"
+   repos="svn://mu.lti.cs.cmu.edu/EMRCode"
+   revision="47"/>
+<entry
+   committed-rev="5"
+   name="uima-examples.jar"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-01-31T13:44:18.439786Z"
+   checksum="b90c2e2641220ad0f3ed3bc45e11d863"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   committed-rev="5"
+   name="uima-adapter-soap.jar"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-01-31T13:44:18.439786Z"
+   checksum="5fa773403cbc3a67f5092d23dac975e7"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   committed-rev="5"
+   name="uima-tools.jar"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-01-31T13:44:18.439786Z"
+   checksum="8dd689353d7a4919e146f0577e37204d"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   committed-rev="5"
+   name="jackson-mapper-asl-1.5.5.jar"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-01-31T13:44:18.439786Z"
+   checksum="97e444beb5107bcecb672085716949bd"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   committed-rev="5"
+   name="jackson-core-asl-1.5.5.jar"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-01-31T13:44:18.439786Z"
+   checksum="bb40a137403be049174184834a27a3a7"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   committed-rev="5"
+   name="uima-adapter-vinci.jar"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-01-31T13:44:18.439786Z"
+   checksum="870ccb0576f9642b531efb96b1351c2d"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   committed-rev="5"
+   name="uima-document-annotation.jar"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-01-31T13:44:18.439786Z"
+   checksum="1a26a858b7d2fd788728b94fb4d0f428"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   committed-rev="5"
+   name="uima-cpe.jar"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-01-31T13:44:18.439786Z"
+   checksum="0f7e62b2734a1bb4a6511cd0425fede4"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   committed-rev="5"
+   name="uimaj-bootstrap.jar"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-01-31T13:44:18.439786Z"
+   checksum="acc5d000306eb86e4046d922f2f05154"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   committed-rev="5"
+   name="jackson-jaxrs-1.5.5.jar"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-01-31T13:44:18.439786Z"
+   checksum="e83db1a986d8ba8c178b8aa0825ecec3"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   committed-rev="5"
+   name="uima-core.jar"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-01-31T13:44:18.439786Z"
+   checksum="b4d6f0a681df167ca6dbace3229775bf"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:30.000000Z"/>
+<entry
+   committed-rev="5"
+   name="jVinci.jar"
+   text-time="2013-02-22T15:15:32.000000Z"
+   committed-date="2013-01-31T13:44:18.439786Z"
+   checksum="de0a3c4ae6c2aa6517ddc2744e7e7c6d"
+   last-author="ehn"
+   kind="file"
+   prop-time="2013-02-22T15:15:32.000000Z"/>
+</wc-entries>

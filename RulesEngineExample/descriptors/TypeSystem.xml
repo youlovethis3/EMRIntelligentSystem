@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>TypeSystem</name>
+  <description/>
+  <version>1.0</version>
+  <vendor/>
+  <imports>
+    <import location="TS_CPTDescriptor.xml"/>
+    <import location="TS_ICD10DiagnosisDescriptor.xml"/>
+    <import location="TS_ICD10PCSDescriptor.xml"/>
+    <import location="TS_ICD9Descriptor.xml"/>
+    <import location="TS_SnoMedDescriptor.xml"/>
+  </imports>
+</typeSystemDescription>

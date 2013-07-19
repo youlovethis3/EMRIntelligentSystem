@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Crossmaps>
+	<SNOMED>
+		<SNOMEDCode ID="63650001" Description="Cholera" Confidence="1" />
+		<SNOMEDCode ID="34872001" Description="Vibrio" Confidence="0.99" />
+		<SNOMEDCode ID="63650001" Description="Cholera" Confidence="0.5" />
+		<SNOMEDCode ID="34872001" Description="Vibrio" Confidence="0.99" />
+		<SNOMEDCode ID="63650001" Description="Cholera" Confidence="0" />
+	</SNOMED>
+	<RxNorm>
+	</RxNorm>
+	<ICD10>
+		<ICD10Code ID="A009" Description="Cholera" Confidence="1" />
+		<ICD10Code ID="A001" Description="Cholera" Confidence="1" />
+		<ICD10Code ID="A000" Description="Cholera" Confidence="1" />
+		<ICD10Code ID="A009" Description="Cholera" Confidence="0.5" />
+		<ICD10Code ID="A001" Description="Cholera" Confidence="0.5" />
+		<ICD10Code ID="A000" Description="Cholera" Confidence="0.5" />
+		<ICD10Code ID="A009" Description="Cholera" Confidence="0" />
+		<ICD10Code ID="A001" Description="Cholera" Confidence="0" />
+		<ICD10Code ID="A000" Description="Cholera" Confidence="0" />
+	</ICD10>
+	<ICD9CM>
+		<ICD9CODE ID="001.9" Description="Cholera" Confidence="1" />
+		<ICD9CODE ID="001.9" Description="Cholera" Confidence="0.5" />
+		<ICD9CODE ID="001.9" Description="Cholera" Confidence="0" />
+	</ICD9CM>
+	<ICD03>
+	</ICD03>
+	<OPCS_4>
+	</OPCS_4>
+</Crossmaps>

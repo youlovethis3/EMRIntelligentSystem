@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmlns:cas="http:///uima/cas.ecore" xmlns:xmi="http://www.omg.org/XMI"
+	xmlns:tcas="http:///uima/tcas.ecore" xmlns:types="http:///com/precyse/freedom/uima/types.ecore"
+	xmlns:examples="http:///org/apache/uima/examples.ecore" xmi:version="2.0">
+	<cas:NULL xmi:id="0" />
+	<cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView"
+		mimeType="text"
+		sofaString="Some random text to create test annotations for rule set.&#13;&#10;Some random text to create test annotations for rule set.&#13;&#10;Some random text to create test annotations for rule set.&#13;&#10;Some random text to create test annotations for rule set.&#13;&#10;Some random text to create test annotations for rule set.&#13;&#10;Some random text to create test annotations for rule set.&#13;&#10;Some random text to create test annotations for rule set.&#13;&#10;Some random text to create test annotations for rule set.&#13;&#10;Some random text to create test annotations for rule set.&#13;&#10;Some random text to create test annotations for rule set.&#13;&#10;Some random text to create test annotations for rule set.&#13;&#10;Some random text to create test annotations for rule set.&#13;&#10;" />
+	<tcas:DocumentAnnotation xmi:id="8" sofa="1"
+		begin="0" end="708" language="en" />
+	<types:SNOMED xmi:id="13" sofa="1" begin="0" end="5"
+		confidence="0.0" ConceptID="63650001" ConceptStatus="0" IsPrimitive="false" />
+	<types:ICD10DC xmi:id="27" sofa="1" begin="0" end="5"
+		source="GS" confidence="0.0" ID="0" Code="A00.0" Extension="false"
+		NumberBeforeDecimal="0" Digit1AfterDecimal="0" Digit2AfterDecimal="0" />
+	<types:ICD10DC xmi:id="49" sofa="1" begin="0" end="5"
+		source="GS" confidence="0.0" ID="0" Code="A00.1" Extension="false"
+		NumberBeforeDecimal="0" Digit1AfterDecimal="0" Digit2AfterDecimal="0" />
+	<types:ICD10DC xmi:id="71" sofa="1" begin="0" end="5"
+		source="GS" confidence="0.0" ID="0" Code="A00.9" Extension="false"
+		NumberBeforeDecimal="0" Digit1AfterDecimal="0" Digit2AfterDecimal="0" />
+	<types:ICD10DC xmi:id="93" sofa="1" begin="0" end="5"
+		source="GS" confidence="0.0" ID="0" Code="A00" Extension="false"
+		NumberBeforeDecimal="0" Digit1AfterDecimal="0" Digit2AfterDecimal="0" />
+	<types:ICD10DC xmi:id="115" sofa="1" begin="0" end="5"
+		source="CLIX" confidence="0.0" ID="0" Code="A00.9" Extension="false"
+		NumberBeforeDecimal="0" Digit1AfterDecimal="0" Digit2AfterDecimal="0" />
+	<types:ICD10DC xmi:id="137" sofa="1" begin="0" end="5"
+		source="CLIX" confidence="0.0" ID="0" Code="A00.1" Extension="false"
+		NumberBeforeDecimal="0" Digit1AfterDecimal="0" Digit2AfterDecimal="0" />
+	<types:ICD10DC xmi:id="159" sofa="1" begin="0" end="5"
+		source="CLIX" confidence="0.0" ID="0" Code="A00.0" Extension="false"
+		NumberBeforeDecimal="0" Digit1AfterDecimal="0" Digit2AfterDecimal="0" />
+	<types:Recall xmi:id="181" sofa="1" begin="0" end="708"
+		testType="ICD10DC" testSource="CLIX" goldSource="GS" value="0.75" />
+	<types:Precision xmi:id="189" sofa="1" begin="0" end="708"
+		testType="ICD10DC" testSource="CLIX" goldSource="GS" value="1.0" />
+	<cas:View sofa="1" members="8 13 27 49 71 93 115 137 159 181 189" />
+</xmi:XMI>

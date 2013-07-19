@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Rules>
+<Rule>
+	<LHS>
+		<SNOMEDCode ID="123976001" Description="Postinfectious disorder" />
+		<SNOMEDCode ID="40930008" Description="Hypothyroidism" />
+	</LHS>
+	<RHS>
+		<ICD10Code ID="E03.3" Description="Postinfectious hypothyroidism" />
+	</RHS>
+</Rule>
+<Rule>
+	<LHS>
+		<SNOMEDCode ID="88348008" Description="Maxillary sinusitis" />
+		<SNOMEDCode ID="255227004" Description="Recurrent" />
+	</LHS>
+	<RHS>
+		<ICD10Code ID="J01.01" Description="Acute recurrent maxillary sinusitis" />
+	</RHS>
+</Rule>
+<Rule>
+	<LHS>
+		<SNOMEDCode ID="22253000" Description="Pain" />
+		<SNOMEDCode ID="243996003" Description="Limb" />
+	</LHS>
+	<RHS>
+		<ICD10Code ID="M79.609" Description="Pain in unspecified limb" />
+	</RHS>
+</Rule>
+<Rule>
+	<LHS>
+		<SNOMEDCode ID="55342001" Description="Neoplasm" />
+		<SNOMEDCode ID="84229001" Description="Fatigue" />
+	</LHS>
+	<RHS>
+		<ICD10Code ID="R53.0" Description="Neoplastic (malignant) related fatigue" />
+	</RHS>
+</Rule>
+</Rules>
